@@ -1,7 +1,0 @@
-{
-  "name": "Docteur Beauté Noire",
-  "description": "The trusted beauty doctor for Black skin. AI-powered diagnostics, personalized routines, and ingredient safety for melanin-rich skin.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
